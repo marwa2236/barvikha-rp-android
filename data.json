@@ -37,21 +37,33 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In the ever-evolving realm of gaming, where boundless creativity knows no limits, emerges a virtual masterpiece that captivates players and transports them into a world of unparalleled adventure and camaraderie. "Barvikha RP" stands as a shining testament to the immense potential of role-playing games (RPGs), weaving together a tapestry of exploration, community, and fantasy.
+
+",
+   "photo1":"https://iili.io/HDHInj4.webp"},
+  {"desc2":"Central to the Barvikha RP experience is a meticulously crafted virtual universe that beckons players to leave behind the mundane and embrace a journey of discovery and wonder. The game unfurls within a fictional realm adorned with lush landscapes, ancient ruins, bustling metropolises, and mythical creatures, all designed to provide an expansive canvas for players to shape their destinies and craft intricate narratives.
+
+","photo2":"https://iili.io/HDHICuf.webp"},
+  {"desc3":"Barvikha RP distinguishes itself by placing a strong emphasis on player agency and creativity. Unlike conventional linear games, this RPG empowers players to mold their own stories, design their characters, and navigate their chosen paths. Whether one envisions themselves as a valiant knight, a cunning rogue, an enigmatic mage, or any other archetype, Barvikha RP offers the tools and stage to breathe life into their chosen persona.
+
+","photo3":"https://iili.io/HDHIzn2.webp"},
+  {"desc4":"The Barvikha RP universe captivates with its meticulous attention to detail. Every nook and cranny of this virtual expanse exudes a sense of wonder and the allure of the unknown. Traverse through ancient, towering woodlands where the interplay of sunlight and foliage creates a mesmerizing dance of shadows. Ascend to the zenith of majestic peaks that seem to brush against the heavens, granting players panoramic vistas that inspire awe. The intricate architecture of bustling urban hubs, the serenity of hidden lakes, and the enigmas concealed within forgotten sanctuaries beckon players to uncover their mysteries.
+
+","photo4":"https://iili.io/HDHIoZl.webp"},
+  {"desc5":"Beyond the breathtaking landscapes, Barvikha RP thrives on the connections fostered between players. Much like the physical world, the virtual domain thrives on social interaction, collaboration, and the forging of enduring relationships. Be it forming adventuring parties, affiliating with guilds, or participating in grand communal events, players are encouraged to unite, share their sagas, and collectively shape the ever-evolving narrative.
+
+","photo5":"https://iili.io/HDHIIGS.webp"},
+  {"descd":"What truly sets Barvikha RP apart is its commitment to dynamic storytelling. The game's world isn't a mere backdrop; it's a vibrant entity that reacts to players' choices and actions. Decisions made ripple across the fabric of the virtual realm, influencing politics, sparking events, and altering the course of history. This dynamic narrative approach imparts a sense of agency, making players feel that their choices hold genuine consequence and their odyssey is genuinely unique.
+
+","photod":"https://iili.io/HDHIT67.webp"}
    ]
  
 }
